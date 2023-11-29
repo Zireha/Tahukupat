@@ -7,7 +7,7 @@ int main()
 
     cout<<"masukkan input [huruf]\n";
     getline(cin, input);
-    cout<<"mbuh lah nggateli cok semester 4";
+    cout<<input;
 
 
     return 0;
